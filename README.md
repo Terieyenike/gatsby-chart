@@ -3,6 +3,8 @@
 ## Overview
 Presenting your complex unorganized data sets into organized data that conveys the right message to the audience using chart like Pie, Doughnut, PolarArea and so on.
 
+![gatsby chart](src/images/chart.png)
+
 LIVE LINK: https://24633.sse.codesandbox.io/
 
 ## Tech/framework used
